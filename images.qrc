@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>to.jpg</file>
+        <file>ad1.jpg</file>
+        <file>ad2.jpg</file>
+        <file>rgb.png</file>
+        <file>t.png</file>
+        <file>c.png</file>
+        <file>t2.png</file>
+        <file>t3.png</file>
+        <file>c3.png</file>
+        <file>Back.png</file>
+        <file>bstar.png</file>
+        <file>wstar.png</file>
+        <file>star.png</file>
+        <file>person.png</file>
+        <file>starbackground.png</file>
+        <file>pdf.png</file>
+        <file>stargif.jpg</file>
+        <file>gif.gif</file>
+        <file>headphones.png</file>
+        <file>headphones (2).png</file>
+        <file>book.png</file>
+        <file>bowling.png</file>
+        <file>guitar.png</file>
+        <file>volleyball.png</file>
+        <file>headphones90.png</file>
+    </qresource>
+</RCC>
